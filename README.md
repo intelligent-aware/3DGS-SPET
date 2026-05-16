@@ -108,7 +108,7 @@ If you find this project useful, please cite:
   title={3DGS-SPET: Incorporating 3D Gaussian Splatting for Spacecraft Pose Estimation and Tracking Based on Monocular Vision},
   author={Yuan Li, Dapeng Wu, Yaping Cui, Peng He, Yuan Zhang and Ruyan Wang},
   journal={Arxiv},
-  year={2025}
+  year={2026}
 }
 ```
 
