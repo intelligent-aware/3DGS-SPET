@@ -46,7 +46,7 @@ Testing dataset are organised under the ``SPARK2024`` directory, as below,
 
 ```
 SPARK2024
-├── [RT509](https://drive.google.com/file/d/1P3rEHJKAlJzL9rm0_OcBG1KFpMBXhcQi/view?usp=drive_link).
+├── RT509
 ├── RT519
 ├── RT529
 ├── RT539
@@ -112,5 +112,3 @@ If you find this project useful, please cite:
 }
 ```
 
-# 3DGS-SPET
-# 3DGS-SPET
