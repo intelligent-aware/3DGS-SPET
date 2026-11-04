@@ -102,16 +102,14 @@ Then, train the network via
 ## Acknowledgement
 Our work are based on [DINOv2](https://github.com/facebookresearch/dinov2), [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting?tab=readme-ov-file) and [MegaPose](https://github.com/megapose6d/megapose6d), and we use their code. If you use the part of code related to data generation, testing and evaluation, you should cite these paper and follow their license.
 
-##Citation
+## Citation
+
 If you find this project useful, please cite:
 
 @article{ 
   title={Incorporating Three-Dimensional Gaussian Splatting for Monocular Vision Spacecraft Pose Estimation and Tracking},
-  
   author={Yuan Li, Dapeng Wu, Chuanfeng Wei, Yaping Cui, Peng He, Yingchen Gu, Yuan Zhang, Ruyan Wang},
-  
   journal={IEEE Journal on Miniaturization for Air and Space Systems},
-  
   year={2026}
 }
 
