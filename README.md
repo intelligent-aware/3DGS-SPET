@@ -105,7 +105,7 @@ Our work are based on [DINOv2](https://github.com/facebookresearch/dinov2), [3D 
 ##Citation
 If you find this project useful, please cite:
 
- @article{ 
+@article{ 
   title={Incorporating Three-Dimensional Gaussian Splatting for Monocular Vision Spacecraft Pose Estimation and Tracking},
   author={Yuan Li, Dapeng Wu, Chuanfeng Wei, Yaping Cui, Peng He, Yingchen Gu, Yuan Zhang, Ruyan Wang},
   journal={IEEE Journal on Miniaturization for Air and Space Systems},
